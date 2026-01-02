@@ -1,4 +1,3 @@
-# Floraria-mariana-sud-
 <html lang="ro">
 <head>
 <meta charset="UTF-8">
@@ -67,6 +66,10 @@ p {
     background: #000;
 }
 
+.facebook {
+    background: #1877f2; /* albastru Facebook */
+}
+
 .flower {
     font-size: 42px;
     margin-bottom: 8px;
@@ -92,7 +95,14 @@ p {
        target="_blank">
        TikTok
     </a>
+
+    <a class="btn facebook"
+       href="https://www.facebook.com/share/1CtCdopk27/"
+       target="_blank">
+       Facebook
+    </a>
 </div>
 
 </body>
 </html>
+
