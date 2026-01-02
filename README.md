@@ -1,5 +1,4 @@
 # Floraria-mariana-sud-
-<!DOCTYPE html>
 <html lang="ro">
 <head>
 <meta charset="UTF-8">
@@ -16,7 +15,7 @@ body {
     align-items: center;
 
     /* FUNDAL CU PATTERN FLORI + INIMI */
-    background-image:"fundal-flori.png";
+    background-image: url("images/fundal-flori.png");
     background-size: 1080px;
     background-color: #fdf7fa;
 }
